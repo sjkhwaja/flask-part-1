@@ -1,6 +1,9 @@
 # flask-part-1
 Assignment 2 for HHA 504
 
+# **** UPDATE 9/17
+paused azure and gcp vm's -- can resume if needed when grading
+
 
 # GCP links
 http://35.222.244.203
